@@ -11,27 +11,27 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashutoshanand139">
-    <img align="left" height="30" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+    <img align="left" width="30" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   </a>
   
   <a href="https://www.stackoverflow.com/users/13937565" target="_blank">
-    <img align="left" height="30" alt="Stack Overflow" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
+    <img align="left" width="30" alt="Stack Overflow" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
   </a>
   
   <a href="https://www.instagram.com/ll.ashu.ll" target="_blank">
-    <img align="left" height="30" alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+    <img align="left" width="30" alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
   </a>
   
   <a href="https://www.codechef.com/users/alucard2711hs" target="_blank">
-    <img align="left" height="30" alt="CodeChef" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+    <img align="left" width="30" alt="CodeChef" src="https://img.icons8.com/color/48/000000/codechef.png" />
   </a>
   
   <a href="https://www.hackerrank.com/ashutoshanand139" target="_blank">
-    <img align="left" height="30" alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
+    <img align="left" width="25" alt="HackerRank" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
   </a>
   
   <a href="https://www.leetcode.com/ashutoshanand139" target="_blank">
-    <img align="left" height="30" alt="LeetCode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
+    <img align="left" width="25" alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
   </a>
 </p>
 
