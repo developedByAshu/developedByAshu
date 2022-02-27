@@ -77,35 +77,35 @@
 ### Languages and Tools:
 
 <p>
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="Visual Studio Code"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="Sass"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="React"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="GraphQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="Node.js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="MongoDB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="cplusplus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="tailwindcss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px; padding-top:10px;" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Visual Studio Code"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Sass"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="React"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="GraphQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Node.js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="MongoDB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="cplusplus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="tailwindcss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 </p>
 
 <br><br>
