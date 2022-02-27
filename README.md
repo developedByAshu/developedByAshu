@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashutoshanand139" target="_blank">
+  <a href="https://www.linkedin.com/in/ashutoshanand139" target="blank">
     Hello
 <!--     <img align="left" height="30" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> -->
   </a>
