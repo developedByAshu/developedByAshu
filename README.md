@@ -56,7 +56,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshanand139&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshanand139&langs_count=10&theme=gruvbox&layout=compact" />
   <br>
   <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 </details>
