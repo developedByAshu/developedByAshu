@@ -9,8 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />](https://www.linkedin.com/in/ashutoshanand139?target=_blank)
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ashutoshanand139" target="_blank">
     <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
