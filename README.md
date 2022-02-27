@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashutoshanand139">
-    <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+  <a target="_blank" href="https://www.linkedin.com/in/ashutoshanand139">
+    <img align="left" width="32" alt="LinkedIn" target="_blank" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   </a>
     
   <a href="https://www.instagram.com/ll.ashu.ll" target="_blank">
@@ -62,7 +62,7 @@
 <details>
   <summary>:zap: Wakatime Stats</summary>
   <br>
-  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ashutoshanand139&theme=gruvbox&layout=compact" />
+  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ashutoshanand139&langs_count=10&theme=gruvbox&layout=compact" />
 </details>
 
 <br>
