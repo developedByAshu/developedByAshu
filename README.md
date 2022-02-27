@@ -98,4 +98,4 @@
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="tailwindcss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<br>
+<br><br>
