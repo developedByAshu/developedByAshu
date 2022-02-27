@@ -103,8 +103,8 @@
   <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="cplusplus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
   <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
   <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /> 
+    <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
   <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /> 
-  <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
   <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
   <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> 
   <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
