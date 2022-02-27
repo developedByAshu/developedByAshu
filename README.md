@@ -11,15 +11,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashutoshanand139">
-    <img align="left" width="30" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+    <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   </a>
-  
-  <a href="https://www.stackoverflow.com/users/13937565" target="_blank">
-    <img align="left" width="30" alt="Stack Overflow" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
-  </a>
-  
+    
   <a href="https://www.instagram.com/ll.ashu.ll" target="_blank">
-    <img align="left" width="30" alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
+    <img align="left" width="32" alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
   </a>
   
   <a href="https://www.codechef.com/users/alucard2711hs" target="_blank">
@@ -33,16 +29,20 @@
   <a href="https://www.leetcode.com/ashutoshanand139" target="_blank">
     <img align="left" width="25" alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
   </a>
+  
+  <a href="https://www.stackoverflow.com/users/13937565" target="_blank">
+    <img align="left" width="25" alt="Stack Overflow" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" />
+  </a>
 </p>
 
-<br>
+<br><br>
 
 ### Stats:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashutoshanand139&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&hide=stars" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashutoshanand139&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
 </details>
 
 <details>
@@ -64,6 +64,8 @@
   <br>
   <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ashutoshanand139&theme=gruvbox&layout=compact" />
 </details>
+
+<br>
 
 ### Languages and Tools:
 
