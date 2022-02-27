@@ -78,7 +78,7 @@
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="MongoDB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="GitHub"  src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
@@ -89,7 +89,6 @@
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> 
-<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> 
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> 
