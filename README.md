@@ -4,7 +4,13 @@
 <h3 align="left">A passionate developer from India</h3>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshanand139&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshanand139" /> </p>
+
+<div markdown="1">
+  <img align="left" src="https://komarev.com/ghpvc/?username=ashutoshanand139&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshanand139" />
+  <a align="left" href="https://wakatime.com/@e553e66b-4ac1-40d7-a4f3-f28f49793dba"><img src="https://wakatime.com/badge/user/e553e66b-4ac1-40d7-a4f3-f28f49793dba.svg" alt="ashutoshanand139" /></a>
+</div>
+
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshanand139&theme=gruvbox" alt="ashutoshanand139" /></a> </p>
 
@@ -40,7 +46,7 @@
   </a>
 </p>
 
-<br><br>
+<br><br><br>
 📫 Reach me at **ashutoshanand139@gmail.com**
 
 <br>
