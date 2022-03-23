@@ -93,34 +93,34 @@
 ### Languages and Tools:
 
 <p>
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Visual Studio Code"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Pycharm" src="https://www.svgrepo.com/show/354237/pycharm.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="HTML5"  src="https://www.svgrepo.com/show/183637/html5.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Sass"  src="https://www.svgrepo.com/show/349502/sass.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="React"  src="https://www.svgrepo.com/show/354259/react.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="GraphQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="Node.js"  src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="MongoDB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="MySQL"  src="https://www.svgrepo.com/show/354099/mysql.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Django" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
-  <img align="left" height="40px" width="40px" style="padding-right:10px;" alt="Docker" src="https://www.svgrepo.com/show/373553/docker.svg" /> 
-    <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="ExpressJs" src="https://www.svgrepo.com/show/373574/ejs.svg" /> 
-  <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="Java" src="https://www.svgrepo.com/show/184143/java.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Linux" src="https://img.icons8.com/color/344/linux--v1.png" />
-  <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="Postgresql" src="https://www.svgrepo.com/show/354200/postgresql.svg" /> 
-  <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  <img align="left" height="40px" width="30px" style="padding-right:10px;" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Visual Studio Code"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Pycharm" src="https://www.svgrepo.com/show/354237/pycharm.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="HTML5"  src="https://www.svgrepo.com/show/183637/html5.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Sass"  src="https://www.svgrepo.com/show/349502/sass.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="React"  src="https://www.svgrepo.com/show/354259/react.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="GraphQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Node.js"  src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="MongoDB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="MySQL"  src="https://www.svgrepo.com/show/354099/mysql.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Django" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Docker" src="https://www.svgrepo.com/show/373553/docker.svg" /> 
+    <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="ExpressJs" src="https://www.svgrepo.com/show/373574/ejs.svg" /> 
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Java" src="https://www.svgrepo.com/show/184143/java.svg" /> 
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Linux" src="https://img.icons8.com/color/344/linux--v1.png" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postgresql" src="https://www.svgrepo.com/show/354200/postgresql.svg" /> 
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /> 
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 </p>
 
 <br><br>
