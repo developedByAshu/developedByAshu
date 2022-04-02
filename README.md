@@ -49,13 +49,15 @@
 <br><br><br>
 📫 Reach me at **ashutoshanand139@gmail.com**
 
+<!-- 
 <br>
 
 <h3 align="left">Resume:</h3>
 <a align="left" href="https://github.com/ashutoshanand139/Documents/blob/main/Ashutosh%20Anand%20Resume.pdf" target="_blank">
   <img align="left" width="32" alt="Resume" src="https://img.icons8.com/fluency/48/000000/resume.png" />
 </a>
-
+ -->
+ 
 <br><br>
 
 ### Stats:
