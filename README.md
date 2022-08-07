@@ -29,6 +29,7 @@
     <img align="left" width="32" alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
   </a>
   
+<!---
   <a href="https://www.codechef.com/users/alucard2711hs" target="_blank">
     <img align="left" width="30" alt="CodeChef" src="https://img.icons8.com/color/48/000000/codechef.png" />
   </a>
@@ -44,6 +45,8 @@
   <a href="https://www.stackoverflow.com/users/13937565" target="_blank">
     <img align="left" width="25" alt="Stack Overflow" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" />
   </a>
+-->
+
 </p>
 
 <br><br><br>
