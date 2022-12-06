@@ -98,7 +98,7 @@
 ### Languages and Tools:
 
 <p>
-  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Visual Studio Code"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Visual Studio Code" title=" Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Pycharm" src="https://www.svgrepo.com/show/354237/pycharm.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="HTML5"  src="https://www.svgrepo.com/show/183637/html5.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
