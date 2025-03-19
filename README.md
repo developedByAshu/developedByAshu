@@ -25,11 +25,11 @@
     <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   </a>
     
+<!---
   <a href="https://www.instagram.com/ashutowsh" target="_blank">
     <img align="left" width="32" alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
   </a>
   
-<!---
   <a href="https://www.codechef.com/users/alucard2711hs" target="_blank">
     <img align="left" width="30" alt="CodeChef" src="https://img.icons8.com/color/48/000000/codechef.png" />
   </a>
